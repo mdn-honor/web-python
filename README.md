@@ -1,6 +1,6 @@
 # Web Python Application
 
-A simple Flask web application with Docker support.
+A simple Flask Web App with Docker support.
 
 ## Run with Docker
 
